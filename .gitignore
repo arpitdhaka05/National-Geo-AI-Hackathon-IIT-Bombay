@@ -1,0 +1,29 @@
+# Large notebooks (> 10MB — keep Final IG.ipynb only if < 10MB)
+Final_IG - Pure.ipynb
+Final_IG_Pure - Last.ipynb
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Data
+*.las
+*.laz
+data/
+
+# Environments
+venv/
+.venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
