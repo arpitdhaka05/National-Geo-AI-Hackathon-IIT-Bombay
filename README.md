@@ -1,11 +1,11 @@
-# 🌍 National GeoAI Hackathon — AI-Powered Drainage Planning System  
+#  National GeoAI Hackathon — AI-Powered Drainage Planning System  
 ### Team Protego
 
 An AI-driven geospatial intelligence system that transforms SVAMITVA drone data into engineering-grade drainage designs to prevent annual monsoon flooding in Uttar Pradesh villages.
 
 ---
 
-## 👥 Team Details
+##  Team Details
 
 **Team Name:** Protego  
 **Members:**  
@@ -14,7 +14,7 @@ An AI-driven geospatial intelligence system that transforms SVAMITVA drone data 
 
 ---
 
-## 🚨 Problem Statement — The Urgent Crisis
+##  Problem Statement — The Urgent Crisis
 
 Every monsoon, Uttar Pradesh faces devastating floods due to poor rural drainage infrastructure.
 
@@ -29,7 +29,7 @@ Our mission is to convert this raw data into actionable drainage designs using A
 
 ---
 
-## 💡 Our Solution — From Data to Drainage Design
+##  Our Solution — From Data to Drainage Design
 
 We built a 4-Step AI Pipeline that converts raw drone survey data into construction-ready drainage plans.
 
@@ -60,7 +60,7 @@ We built a 4-Step AI Pipeline that converts raw drone survey data into construct
 
 ---
 
-## 📍 Case Study — Village Pure, Uttar Pradesh
+##  Case Study — Village Pure, Uttar Pradesh
 
 - 15% of village identified as flood-prone  
 - 254,050 grid cells marked as high-risk  
@@ -73,7 +73,7 @@ Targeted drainage prevents residential flooding, crop destruction, and road dama
 
 ---
 
-## 📊 Accuracy Validation
+##  Accuracy Validation
 
 - RMSE = 0.60 meters  
 - Perfect spatial alignment with village boundaries  
@@ -82,7 +82,7 @@ Targeted drainage prevents residential flooding, crop destruction, and road dama
 
 ---
 
-## 💰 Cost & Scale Model
+##  Cost & Scale Model
 
 ### Cost per Village
 **₹14.3 Lakhs per village**
@@ -99,7 +99,7 @@ Breakdown:
 
 ---
 
-## 🚀 Scalable Vision for Uttar Pradesh
+##  Scalable Vision for Uttar Pradesh
 
 - 90,573 villages already mapped under SVAMITVA  
 - No new surveys required  
@@ -112,7 +112,7 @@ Breakdown:
 
 ---
 
-## 🗺️ 14-Month Execution Roadmap
+##  14-Month Execution Roadmap
 
 ### Phase 1 (Months 1–3): High-Priority Safety
 - Protect residential zones  
@@ -131,7 +131,7 @@ Breakdown:
 
 ---
 
-## 🏆 Why Our Model Wins
+##  Why Our Model Wins
 
 | Traditional Projects | Our AI Model |
 |--------------------|--------------|
@@ -143,14 +143,14 @@ One-off demos | Proven multi-village pipeline |
 
 ---
 
-## 📄 Full Project Proposal
+##  Full Project Proposal
 
 Download the complete proposal here:  
 **[Proposal.pdf](./Proposal.pdf)**
 
 ---
 
-## 🛠 Suggested Repository Structure
+##  Suggested Repository Structure
 geoai-drainage-planning
 │
 
@@ -169,7 +169,7 @@ geoai-drainage-planning
 
 ---
 
-## 🔗 Updated Version
+##  Updated Version
 
 This submission has been extended into the **[HydroSpatial-SVAMITVA](https://github.com/arpitdhaka05/HydroSpatial-SVAMITVA)** repository, which includes:
 - 10 villages processed (up from the UP pilot in this submission)
@@ -179,7 +179,7 @@ This submission has been extended into the **[HydroSpatial-SVAMITVA](https://git
 
 ---
 
-## 📜 License
+##  License
 This project is developed for the **National GeoAI Hackathon** under Team Protego.
 
 
